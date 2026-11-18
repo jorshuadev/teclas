@@ -1,0 +1,30 @@
+plugins {
+    id 'com.android.application'
+    id 'org.jetbrains.kotlin.android'
+}
+
+android {
+    namespace 'pa.jorshua.teclas'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'pa.jorshua.teclas'
+        minSdk 29
+        targetSdk 34
+        versionCode 4
+        versionName '0.4'
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig signingConfigs.debug  // APK personal: firmado con la llave de esta PC
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    kotlinOptions {
+        jvmTarget = '17'
+    }
+}

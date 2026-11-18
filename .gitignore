@@ -1,0 +1,29 @@
+# Gradle / Android
+.gradle/
+.kotlin/
+build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+*.dex
+*.log
+
+# Firmas y secretos
+*.jks
+*.keystore
+keystore.properties
+*.pem
+.env
+
+# IDE / sistema
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Notas de trabajo locales (no se publican)

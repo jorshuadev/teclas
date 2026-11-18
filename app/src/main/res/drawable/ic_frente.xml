@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Teclado con trastes cromados: fila de navegación arriba y tres filas de teclas -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#3FCB5A" android:pathData="M26,31h10v6h-10z" />
+    <path android:fillColor="#4A4A50" android:pathData="M47,30h14v8h-14z" />
+    <path android:fillColor="#E5483B" android:pathData="M72,31h10v6h-10z" />
+    <path android:fillColor="#C8C8CC" android:pathData="M24,40h60v1.6h-60z M24,54h60v1.6h-60z M24,68h60v1.6h-60z" />
+    <path android:fillColor="#3A3A3E"
+        android:pathData="M26,43h8v9h-8z M38,43h8v9h-8z M50,43h8v9h-8z M62,43h8v9h-8z M74,43h8v9h-8z
+                          M26,57h8v9h-8z M38,57h8v9h-8z M50,57h8v9h-8z M62,57h8v9h-8z M74,57h8v9h-8z
+                          M26,71h8v9h-8z M38,71h32v9h-32z M74,71h8v9h-8z" />
+    <path android:fillColor="#F2F2F2"
+        android:pathData="M28.5,46h3v3h-3z M40.5,46h3v3h-3z M52.5,46h3v3h-3z M64.5,46h3v3h-3z M76.5,46h3v3h-3z" />
+    <path android:fillColor="#FFB84D"
+        android:pathData="M28.5,60h3v3h-3z M40.5,60h3v3h-3z M52.5,60h3v3h-3z M64.5,60h3v3h-3z M76.5,60h3v3h-3z" />
+</vector>

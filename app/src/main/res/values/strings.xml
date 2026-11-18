@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Teclas</string>
+    <string name="ajustes">Teclas · Ajustes</string>
+    <string name="nombre_teclado">Teclas (teclado físico)</string>
+    <string name="subtipo">Español</string>
+    <string name="nombre_fijo">Teclas · teclado fijo</string>
+    <string name="desc_fijo">Deja el teclado de Teclas siempre a la vista en todas las apps. Lee la pantalla solo para saber cuándo esconderse (si la app abre el teclado) y para escribir en el campo de texto cuando pulsas una letra. No guarda ni envía nada.</string>
+</resources>
